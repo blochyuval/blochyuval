@@ -7,6 +7,5 @@ I work with JavaScript, React, Node.js, MongoDB, and more.
 🌱 Always learning and exploring new technologies.  
 📫 Reach me at: yuvalbloch17@gmail.com  
 💼 LinkedIn: [linkedin.com/in/yuvalbloch](https://linkedin.com/in/yuvalbloch)  
-💻 GitHub: [github.com/blochyuval](https://github.com/blochyuval)
 
 Thanks for visiting!
