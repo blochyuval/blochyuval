@@ -1,4 +1,4 @@
-## Hi 👋 I'm Yuval Bloch
+## Hi I'm Yuval Bloch
 
 I'm a self-taught Full Stack Developer with a passion for learning new technologies and creating applications from scratch.  
 I work with JavaScript, React, Node.js, MongoDB, and more.
